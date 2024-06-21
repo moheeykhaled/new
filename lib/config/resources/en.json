@@ -1,0 +1,23 @@
+{
+  "slogan": "Read free online books",
+  "theme": "Dark Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "searchYourBook": "Please Search for you desired book",
+  "searchResult": "Search Results",
+  "home": "Home",
+  "setting": "Setting",
+  "newestBooks": "Newest Books",
+  "alsoLiked": "You can also like",
+  "free": "Free",
+  "preview": "Preview",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "onboardingTitle1": "Embark on Your Literary Journey\n",
+  "onboardingTitle2": "Discover Your Next Favorite Read\n",
+  "onboardingTitle3": "Unlock a World of Knowledge and Imagination",
+  "onboardingDescription1": "Welcome to our books app! Get ready to embark on an extraordinary literary journey. Dive into a world of captivating stories, thrilling adventures, and thought-provoking narratives.",
+  "onboardingDescription2": "Are you ready to discover your next favorite book? Our app is your gateway to a treasure trove of literary gems. Browse through a diverse collection of genres, from bestsellers to hidden gems, carefully curated to match your interests.",
+  "onboardingDescription3": "Welcome to the world of limitless imagination and boundless knowledge!"
+}
